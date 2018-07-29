@@ -14,6 +14,7 @@
 		6544420E210D17BD005F79E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6544420C210D17BD005F79E4 /* LaunchScreen.storyboard */; };
 		65444217210D180C005F79E4 /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65444216210D180C005F79E4 /* PlayingCard.swift */; };
 		65444219210D8749005F79E4 /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65444218210D8749005F79E4 /* PlayingCardDeck.swift */; };
+		6544421B210DABE2005F79E4 /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6544421A210DABE2005F79E4 /* PlayingCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6544420F210D17BD005F79E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65444216210D180C005F79E4 /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
 		65444218210D8749005F79E4 /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
+		6544421A210DABE2005F79E4 /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				65444207210D17BD005F79E4 /* Main.storyboard */,
 				6544420A210D17BD005F79E4 /* Assets.xcassets */,
 				65444216210D180C005F79E4 /* PlayingCard.swift */,
+				6544421A210DABE2005F79E4 /* PlayingCardView.swift */,
 				65444218210D8749005F79E4 /* PlayingCardDeck.swift */,
 				6544420F210D17BD005F79E4 /* Info.plist */,
 				65444215210D17CB005F79E4 /* Supporting Files */,
@@ -153,6 +156,7 @@
 				65444206210D17BD005F79E4 /* ViewController.swift in Sources */,
 				65444219210D8749005F79E4 /* PlayingCardDeck.swift in Sources */,
 				65444217210D180C005F79E4 /* PlayingCard.swift in Sources */,
+				6544421B210DABE2005F79E4 /* PlayingCardView.swift in Sources */,
 				65444204210D17BD005F79E4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

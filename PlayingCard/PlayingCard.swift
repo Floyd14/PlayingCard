@@ -70,7 +70,11 @@ struct PlayingCard: CustomStringConvertible {
         }
         
         var description: String {
-            return String(self.order)
+            switch self {
+            case .asso: return "A"
+            case .numeric(let n): return String(n)
+            case .figure(let s): return s
+            }
         }
         
     }
