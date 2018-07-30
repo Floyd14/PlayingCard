@@ -22,7 +22,6 @@ class ViewController: UIViewController {
             playingCard.addGestureRecognizer(pinch)
         }
     }
-    
 
     @IBAction func flipCard(_ sender: UITapGestureRecognizer) {
         switch sender.state {
